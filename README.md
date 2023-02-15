@@ -5,6 +5,8 @@ The folder Week 02 contains attempts at the lab work from lecture 02.
 
 
 The folder Week 03 contains attempts at the first lab from lecture 03 on variables.
+- Lab 3.2 has been added to the folder. Convert.py still needs to be completed.
+- Lab 3.3 has also been added to Week 03.
 
 
 

@@ -10,5 +10,6 @@ The folder Week 03 contains attempts at the first lab from lecture 03 on variabl
 
 The folder Week 04 contains lab work from lecture 04.
 - Lab 4.1 -> if, elif, else
+- Lab 4.2 -> loops, while, for
 
 [^1]: Coding for Beginners in Easy Steps, 2nd Edition, Mike McGrath (2022)

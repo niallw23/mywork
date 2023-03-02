@@ -16,4 +16,9 @@ The folder Week 05 contains lab work from lecture 05
 - Lists, tuples, range
 - Dictionary objects
 
+The folder Week 06 contains work from lecture 06
+- It introduces the use of functions
+- 
+
+
 [^1]: Coding for Beginners in Easy Steps, 2nd Edition, Mike McGrath (2022)

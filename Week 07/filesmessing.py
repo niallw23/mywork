@@ -8,5 +8,13 @@ def readnumber():
         number = int(f.read())
         return number
 
+
+
+def writenumber(number):
+    with open(FILENAME, 'wt') as f:
+        f.write(str(number))
+
 num = readnumber()
-print (num)
+num += 1
+print (f'We have run this programme {num} times')
+writenumber (num)

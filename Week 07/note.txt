@@ -1,0 +1,3 @@
+Sample to use for practise code. To see if I can complete Task 7.
+
+This will be the text file that the program reads.

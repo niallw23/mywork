@@ -22,6 +22,8 @@ The folder Week 06 contains work from lecture 06
 The folder Week 07 contains work from lecture 07
 - This lecture explored files.
 - The lab work involved creating text files, opening and writing to the files.
+- Also tried practice the weekly task --> involved some research into command line arguments.
+- Did enough to understand and attempt task.
 
 
 [^1]: Coding for Beginners in Easy Steps, 2nd Edition, Mike McGrath (2022)

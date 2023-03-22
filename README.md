@@ -25,5 +25,9 @@ The folder Week 07 contains work from lecture 07
 - Also tried practice the weekly task --> involved some research into command line arguments.
 - Did enough to understand and attempt task.
 
+The folder Week 08 contains work from lecture 08
+- The first part has examples from the module numpy
+- The second part has work on plotting
+
 
 [^1]: Coding for Beginners in Easy Steps, 2nd Edition, Mike McGrath (2022)

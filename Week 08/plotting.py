@@ -8,5 +8,6 @@ ypoints = xpoints * xpoints
 
 plt.plot(xpoints, ypoints, label = 'X Squared')
 plt.title('X Squared')
+plt.xlabel
 plt.legend()
 plt.show()

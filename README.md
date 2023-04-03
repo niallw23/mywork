@@ -32,5 +32,7 @@ The folder Week 08 contains work from lecture 08
 The folder Week 09 has some lab exercises from lecture 09
 - It looks at errors.
 
+The folder Week 10 has the lab work from lecture 10
+- The lecture was on objects and creating instances.
 
 [^1]: Coding for Beginners in Easy Steps, 2nd Edition, Mike McGrath (2022)

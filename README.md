@@ -29,5 +29,8 @@ The folder Week 08 contains work from lecture 08
 - The first part has examples from the module numpy
 - The second part has work on plotting
 
+The folder Week 09 has some lab exercises from lecture 09
+- It looks at errors.
+
 
 [^1]: Coding for Beginners in Easy Steps, 2nd Edition, Mike McGrath (2022)
